@@ -1,7 +1,7 @@
  #include<iostream>
 using namespace std;
 int flo = 34;
-// void Sum();
+
 void Sum(){
     cout << "Hello sum fuction is called\n ";
     cout << "The value of flo in the sum fxn is" << flo<<"\n";
